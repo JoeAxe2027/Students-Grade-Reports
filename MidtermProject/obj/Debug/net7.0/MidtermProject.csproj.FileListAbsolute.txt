@@ -1,0 +1,14 @@
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\MidtermProject\obj\Debug\net7.0\MidtermProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\MidtermProject\obj\Debug\net7.0\MidtermProject.AssemblyInfoInputs.cache
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\MidtermProject\obj\Debug\net7.0\MidtermProject.AssemblyInfo.cs
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\MidtermProject\obj\Debug\net7.0\MidtermProject.csproj.CoreCompileInputs.cache
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\MidtermProject\bin\Debug\net7.0\MidtermProject.exe
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\MidtermProject\bin\Debug\net7.0\MidtermProject.deps.json
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\MidtermProject\bin\Debug\net7.0\MidtermProject.runtimeconfig.json
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\MidtermProject\bin\Debug\net7.0\MidtermProject.dll
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\MidtermProject\bin\Debug\net7.0\MidtermProject.pdb
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\MidtermProject\obj\Debug\net7.0\MidtermProject.dll
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\MidtermProject\obj\Debug\net7.0\refint\MidtermProject.dll
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\MidtermProject\obj\Debug\net7.0\MidtermProject.pdb
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\MidtermProject\obj\Debug\net7.0\MidtermProject.genruntimeconfig.cache
+C:\Users\jhaxe\OneDrive - University of Missouri\Desktop\IT2040\MidtermProject\obj\Debug\net7.0\ref\MidtermProject.dll

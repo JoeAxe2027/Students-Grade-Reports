@@ -1,0 +1,147 @@
+Jennifer Lynn: Junior(Information Technology)
+Average Score: 66.76333333333334% Grade: D
+
+Enoch Blackburn: Sophomore(Information Technology)
+Average Score: 66.77333333333333% Grade: D
+
+Christine Hewitt: Freshman(Music)
+Average Score: 93.59333333333332% Grade: A
+
+Noemi Hudson: Senior(Mathematics)
+Average Score: 68.46% Grade: D
+
+Savannah Porter: Freshman(Information Technology)
+Average Score: 88.20333333333333% Grade: B
+
+Amelia Stevens: Junior(Information Technology)
+Average Score: 76.22% Grade: C
+
+William Morgan: Freshman(Computer Science)
+Average Score: 84.07% Grade: B
+
+Julius Bishop: Senior(Journalism)
+Average Score: 78.84333333333332% Grade: C
+
+Aurelia Garcia: Senior(Instrumental Music)
+Average Score: 70.96% Grade: C
+
+Joseph Snow: Sophomore(Spanish)
+Average Score: 70.22333333333334% Grade: C
+
+Sloane Vince: Junior(Sociology)
+Average Score: 76.34666666666665% Grade: C
+
+Marigold Reid: Sophomore(Computer Science)
+Average Score: 54.663333333333334% Grade: F
+
+Anne Patel: Junior(Information Technology)
+Average Score: 70.12666666666667% Grade: C
+
+Michael Richards: Sophomore(Sociology)
+Average Score: 70.74333333333333% Grade: C
+
+Mackenzie Gavin: Sophomore(Information Technology)
+Average Score: 75.78666666666668% Grade: C
+
+Carl Fleming: Sophomore(Biology)
+Average Score: 69.56% Grade: D
+
+Anthony Anderson: Senior(Mathematics)
+Average Score: 68.87666666666667% Grade: D
+
+Roger Shea: Freshman(Communication)
+Average Score: 76.25999999999999% Grade: C
+
+Sasha Mills: Senior(Communication)
+Average Score: 75.69666666666667% Grade: C
+
+Benny Overson: Freshman(Communication)
+Average Score: 66.46% Grade: D
+
+Gabriel Ryan: Junior(Spanish)
+Average Score: 83.70666666666666% Grade: B
+
+Natalie Lindsay: Junior(Computer Science)
+Average Score: 63.38333333333333% Grade: D
+
+Anthony Penn: Senior(Communication)
+Average Score: 92.56333333333333% Grade: A
+
+Shannon Palmer: Sophomore(Music)
+Average Score: 80.07% Grade: B
+
+Leilani Little: Senior(Computer Science)
+Average Score: 72.17999999999999% Grade: C
+
+Owen Rogers: Freshman(Instrumental Music)
+Average Score: 69.51333333333334% Grade: D
+
+Rosalyn Abbey: Sophomore(Mathematics)
+Average Score: 66.06% Grade: D
+
+Ramon Plumb: Junior(Biology)
+Average Score: 82.11333333333333% Grade: B
+
+Julian Matthews: Junior(Sociology)
+Average Score: 63.98% Grade: D
+
+Anabel Lucas: Sophomore(Language Arts)
+Average Score: 63.24% Grade: D
+
+Matthew Varley: Senior(Mathematics)
+Average Score: 72.89666666666666% Grade: C
+
+Cameron Whatson: Junior(Communication)
+Average Score: 76.12666666666667% Grade: C
+
+Javier Rodgers: Junior(Mathematics)
+Average Score: 69.49333333333334% Grade: D
+
+Elle Vincent: Freshman(Biology)
+Average Score: 61.54333333333333% Grade: D
+
+Ryan Swift: Junior(Computer Science)
+Average Score: 76.76% Grade: C
+
+Rick Ellwood: Senior(Mathematics)
+Average Score: 67.48% Grade: D
+
+Logan Cavanagh: Senior(Computer Science)
+Average Score: 61.21333333333333% Grade: D
+
+Emery Darcy: Junior(Communication)
+Average Score: 59.61333333333332% Grade: F
+
+Deborah Squire: Junior(Biology)
+Average Score: 70.85333333333334% Grade: C
+
+Chelsea Russell: Junior(Music)
+Average Score: 84.85666666666667% Grade: B
+
+Hailey Ross: Sophomore(Journalism)
+Average Score: 87.25333333333333% Grade: B
+
+Nate Casey: Junior(Information Technology)
+Average Score: 87.82666666666667% Grade: B
+
+Anthony Rodgers: Senior(Geography)
+Average Score: 87.61333333333334% Grade: B
+
+Adelaide Gordon: Junior(Mathematics)
+Average Score: 69.09666666666666% Grade: D
+
+Tyler Rees: Senior(Instrumental Music)
+Average Score: 86.74000000000001% Grade: B
+
+Liam Lowe: Sophomore(Journalism)
+Average Score: 78.16000000000001% Grade: C
+
+George Wright: Senior(Biology)
+Average Score: 61.39333333333334% Grade: D
+
+Naomi Williams: Junior(Journalism)
+Average Score: 82.22666666666667% Grade: B
+
+Marina Fleming: Sophomore(Journalism)
+Average Score: 62.169999999999995% Grade: D
+
